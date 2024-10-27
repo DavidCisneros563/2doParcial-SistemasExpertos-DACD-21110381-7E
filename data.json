@@ -1,0 +1,21 @@
+{
+    "questions": [
+        "Juega en la liga de espa\u00f1a",
+        "Juega en la liga mx",
+        "Es delantero"
+    ],
+    "answers": {
+        "Juega en la liga de espa\u00f1a": {
+            "yes": "Davo",
+            "no": "Chicharito Hern\u00e1ndez"
+        },
+        "Juega en la liga mx": {
+            "yes": "Davo",
+            "no": "Chicharito Hern\u00e1ndez"
+        },
+        "Es delantero": {
+            "yes": "Davo",
+            "no": "Chicharito Hern\u00e1ndez"
+        }
+    }
+}
